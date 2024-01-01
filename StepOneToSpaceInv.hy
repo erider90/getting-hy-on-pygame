@@ -1,6 +1,4 @@
 (import pygame)
-;(import pdb) 
-;(pdb.set_trace)
 
 (pygame.init)
 (setv W_H #(390 300)) ; Adjusted width to accommodate 9 boxes with spacing
